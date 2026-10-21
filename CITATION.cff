@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 2: modelado y control del sistema cardiovascular
+  mediante el modelo Windkessel
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gael Sebastian
+    family-names: Andrade Arellano
+    email: l232121@tectijuana.edu.mx
+    affiliation: TecNM/IT Tijuana
+repository-code: 'https://github.com/l23212177-ship-it/MSFPO2'
+keywords:
+  - Modelo Windkessel
+  - Sistema cardiovascular
+  - Controlador PID
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-20'
