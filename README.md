@@ -5,7 +5,7 @@
 
 ## Información de la estudiante
 
-Gael Sebastian Andrade Arellano;23212196 [l23212177@tijuana.tecnm.mx]
+Gael Sebastian Andrade Arellano;23212177[l23212177@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
