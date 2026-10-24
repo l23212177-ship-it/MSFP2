@@ -3,7 +3,7 @@
 
 # Práctica 2: modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
-## Información de la estudiante
+## Información del estudiante
 
 Gael Sebastian Andrade Arellano;23212177[l23212177@tijuana.tecnm.mx]
 
